@@ -1,0 +1,68 @@
+table tr th,
+table tr td {
+  line-height: max(4vw, 20px);
+  font-size: max(2vw, 10px);
+  color: #ffffff;
+}
+.bottom {
+  width: 90%;
+  height: max(35vw, 250px);
+  margin: 0 auto;
+}
+.bottom div {
+  width: 100%;
+}
+.bottom div h2 {
+  display: block;
+  font-size: max(2.5vw, 20px);
+  margin-top: max(1vw, 4px);
+  margin-bottom: max(1vw, 4px);
+}
+.bottom div .underline {
+  width: 100%;
+  height: max(0.5vw, 5px);
+  margin-bottom: max(2vw, 8px);
+  background-color: #ffbb00;
+}
+.bottom .ingredient ul {
+  display: block;
+  width: 100%;
+  height: max(26vw, 220px);
+}
+.bottom .ingredient ul li {
+  width: 90%;
+  height: max(4.6vw, 36px);
+  margin: 0 auto;
+  margin-bottom: max(0.2vw, 4px);
+  line-height: max(4.6vw, 36px);
+  text-align: center;
+  border: 1px solid #b0b0b0;
+  font-size: max(2vw, 14px);
+}
+.bottom .instruction ul {
+  display: block;
+  width: 100%;
+}
+.bottom .instruction ul li {
+  width: 90%;
+  margin: 0 auto;
+  margin-bottom: max(1.5vw, 12px);
+}
+.bottom .instruction ul li div {
+  float: left;
+  width: max(4vw, 30px);
+  height: max(4vw, 30px);
+  border-radius: max(2vw, 15px);
+  line-height: max(4vw, 30px);
+  background-color: #ffbb00;
+  font-size: max(2vw, 20px);
+  color: #ffffff;
+}
+.bottom .instruction ul li span {
+  float: left;
+  width: 50vw;
+  margin-left: 2vw;
+  line-height: max(2vw, 15px);
+  font-size: max(2vw, 15px);
+}
+/*# sourceMappingURL=./Mobile_recipe.css.map */
