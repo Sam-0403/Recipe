@@ -43,7 +43,6 @@ table tr td {
 .bottom .instruction ul {
   display: block;
   width: 100%;
-  height: max(26vw, 220px);
 }
 .bottom .instruction ul li {
   width: 90%;
